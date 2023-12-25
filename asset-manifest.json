@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ECOM/static/css/main.530c9629.css",
+    "main.js": "/ECOM/static/js/main.6489cd14.js",
+    "index.html": "/ECOM/index.html",
+    "main.530c9629.css.map": "/ECOM/static/css/main.530c9629.css.map",
+    "main.6489cd14.js.map": "/ECOM/static/js/main.6489cd14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.530c9629.css",
+    "static/js/main.6489cd14.js"
+  ]
+}
